@@ -50,8 +50,7 @@ public class BishopBlack implements Figure {
 
     @Override
     public String toString() {
-        return "BishopBlack{" +
-                "position=" + position +
-                '}';
+        return "BishopBlack{"
+                + "position=" + position + '}';
     }
 }
